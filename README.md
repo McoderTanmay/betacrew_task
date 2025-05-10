@@ -4,7 +4,7 @@ betacrew_exchange_server/
 ├── client.js # TCP client that connects to the exchange server
 ├── main.js # TCP server simulating the exchange
 ├── helper.js # Utility functions for parsing and requesting packets
-├── output.json # (Optional) Output file for received data
+├── data.json # (Optional) Output file for received data
 ```
 ## 🚀 Getting Started
 
